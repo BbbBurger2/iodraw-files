@@ -14,6 +14,9 @@
             <mxGeometry x="480" y="170" width="30" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Rxw5t86X10JsQ9XYtO98-3" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
