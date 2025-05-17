@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IyPaNhNpbFsp-x6Un_w--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IyPaNhNpbFsp-x6Un_w--1" target="IyPaNhNpbFsp-x6Un_w--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IyPaNhNpbFsp-x6Un_w--1" value="校园外卖系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IyPaNhNpbFsp-x6Un_w--2" value="用户模块" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
